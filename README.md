@@ -1,0 +1,2 @@
+# TricksterImageGenerator
+NFT Image Generator
