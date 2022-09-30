@@ -5,6 +5,7 @@
 * Install nodejs
 * Clone this repository
 * Run `npm install` within the folder root
+* Make a folder "output" & another folder "finalOutput" (as github doesn't allow us to push empty directories)
 
 ## Usage (using our example):
 
