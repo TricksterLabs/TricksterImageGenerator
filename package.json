@@ -1,0 +1,33 @@
+{
+  "name": "trickster-image-generator",
+  "version": "0.0.1-alpha",
+  "description": "NFT Image Generator",
+  "main": "./src/generate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TricksterLabs/TricksterImageGenerator.git"
+  },
+  "keywords": [
+    "trickster",
+    "nft",
+    "image",
+    "generator",
+    "cardano"
+  ],
+  "author": "Aervue <aervue.dev@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TricksterLabs/TricksterImageGenerator/issues"
+  },
+  "homepage": "https://github.com/TricksterLabs/TricksterImageGenerator#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "canvas": "^2.10.1",
+    "fast-glob": "^3.2.12",
+    "ini": "^3.0.1",
+    "merge-images": "^2.0.0"
+  }
+}
